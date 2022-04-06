@@ -10,17 +10,14 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
 This is done part of Exploratory Data Analysis case study
-
-- What is the background of your project?
 The company is a consumer finance company which specialises in lending various types of loans to urban customers. When the company receives a loan application, the company has to make a decision for loan approval based on the applicant’s profile. 
 
-- What is the business probem that your project is trying to solve?
-The company wants to understand the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default.  The company can utilise this knowledge for its portfolio and risk assessment. 
+- Business probem
+  - The company wants to understand the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default.  The company can utilise this knowledge for its portfolio and risk assessment. 
 
-- What is the dataset that is being used?
-We used loan.csv file for this analysis
+- Dataset being used
+  - We used loan.csv file for this analysis
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 - Steps followed
