@@ -54,12 +54,10 @@ The company is a consumer finance company which specialises in lending various t
 Give credit here.
 - This project was done part of our Executive PG Programme in Machine Learning & AI - February 2022 batch
 - We thank our Subject Matter Expert: S Anand CEO, Gramener for sharing his wealth of knowledge 
-- Also we thanks other faculty members and 
-- This project was based on [this tutorial](https://www.example.com).
-
+- Also we thanks other faculty members and support team from UpGrad who were always available for us
 
 ## Contributors - feel free to contact us!
- [@murthib]       
- [@shraddhabhoir]  
+ [@https://github.com/murthib]       
+ [@https://github.com/shraddhabhoir]  
 
 
