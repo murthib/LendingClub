@@ -20,12 +20,12 @@ The company is a consumer finance company which specialises in lending various t
   - We used loan.csv file for this analysis
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-- Steps followed
-Step 1: Data Understanding, Cleaning, manipulation
-Step 2: Univariate Analysis
-Step 3: Segemented Univariate Analysis
-Step 4: Bivaraiate/Multivariate Analysis
-Step 5: Results
+## Steps followed
+  - Step 1: Data Understanding, Cleaning, manipulation
+  - Step 2: Univariate Analysis
+  - Step 3: Segemented Univariate Analysis
+  - Step 4: Bivaraiate/Multivariate Analysis
+  - Step 5: Results
 
 ## Conclusions
 - Conclusion 1 - Following fields are contributing for Charged Off (not in any particular order)
