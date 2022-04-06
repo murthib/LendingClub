@@ -20,7 +20,7 @@ The company is a consumer finance company which specialises in lending various t
   - We used loan.csv file for this analysis
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-## Steps followed
+### Steps followed
   - Step 1: Data Understanding, Cleaning, manipulation
   - Step 2: Univariate Analysis
   - Step 3: Segemented Univariate Analysis
@@ -40,7 +40,6 @@ The company is a consumer finance company which specialises in lending various t
   - Looking at the count of Charged Off and calculating the percent of Charged off gave different view
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
 
 ## Technologies Used
 - pandas
