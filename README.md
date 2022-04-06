@@ -23,8 +23,8 @@ The company is a consumer finance company which specialises in lending various t
 ### Steps followed
   - Step 1: Data Understanding, Cleaning, manipulation
   - Step 2: Univariate Analysis
-  - Step 3: Segemented Univariate Analysis
-  - Step 4: Bivaraiate/Multivariate Analysis
+  - Step 3: Segmented Univariate Analysis
+  - Step 4: Bivariate/Multivariate Analysis
   - Step 5: Results
 
 ## Conclusions
