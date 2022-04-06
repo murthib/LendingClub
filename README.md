@@ -30,8 +30,8 @@ The company is a consumer finance company which specialises in lending various t
 ## Conclusions
 - Conclusion 1 - Following fields are contributing for Charged Off (not in any particular order)
   - Grade & Sub Grade
-  - Borrower state
-  - Year and month
+  - State
+  - Month
   - Purpose 
   - Loan Amount to Annual income ratio
   - Interest rate
